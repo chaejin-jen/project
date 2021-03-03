@@ -17,7 +17,7 @@
   - 사용부품 : DC motor
   - 인원 : 5명
   - 역할 : Raspberry Pi WebCam 영상송신, 안드로이드 무선조종 조이스틱 프로그래밍
-  - 프로젝트 PDF 자료: [RaspPi_RC_Car](02.%20RaspPi_RC_Car\RaspPi_RC_Car.pdf)
+  - 프로젝트 PDF 자료: [RaspPi_RC_Car](02.%20RaspPi_RC_Car/RaspPi_RC_Car.pdf)
  
 ### 03. Pedestrian_light_recognition
   - 프로젝트 내용 : Yolo v3 를 활용한 보행자신호 인식
