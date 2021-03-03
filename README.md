@@ -17,8 +17,7 @@
   - 사용부품 : DC motor
   - 인원 : 5명
   - 역할 : Raspberry Pi WebCam 영상송신, 안드로이드 무선조종 조이스틱 프로그래밍
-  - 프로젝트 PDF 자료: [RaspPi_RC_Car](02.%20RaspPi_WiFi_RC_Car\RaspPi_RC_Car.pdf)
- 
+  - 프로젝트 PDF 자료: [RaspPi_RC_Car](02.%20RaspPi_RC_Car\RaspPi_RC_Car.pdf)
  
 ### 03. Pedestrian_light_recognition
   - 프로젝트 내용 : Yolo v3 를 활용한 보행자신호 인식
@@ -26,7 +25,7 @@
   - 개발환경/툴 : Yolo v3, Python3
   - 인원 : 3명
   - 역할 : 데이터 수집, 이미지 라벨링, Yolo v3를 사용한 딥러닝
-  - 프로젝트 PDF 자료: [pedestrian_signal_detection](03.%20Pedestrian_light_recognition\pedestrian_signal_detection.pdf)
+  - 프로젝트 PDF 자료: [pedestrian_signal_detection](03.%20Pedestrian_light_recognition/pedestrian_signal_detection.pdf)
 
 
 ### 04. 스마트웰니스 공공사업 부문 프로젝트 관리 실무
